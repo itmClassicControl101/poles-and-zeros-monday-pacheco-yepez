@@ -1,0 +1,36 @@
+Check list for laboratory reports - session 2.
+
+Formato y forma:
+- [x] Ortografía 
+- [x] Redacción
+- [x] Plagio
+- [ ] Imágenes, Tablas, Referencias y Ecuaciones: Es importante indicar en que punto se usa la referencia, tabla en formato incorrecto.
+
+Contenido:
+- [x] Introducción
+- [ ] Metodología
+    - [ ] Fuerza bruta RL: Las autoras deben usar de manera adecuada las ecuaciones 
+    - [ ] Función de transferencia RL por inspección: No está en baja entropia
+- [ ] Desarrollo
+    - [x] Circuito RC/RL respuesta transitoria (Tau)
+    - [x] Circuito  RC/RL respuesta en frecuencia (Bode)
+- [ ] Simulación
+    - [x] Matlab/Scilab step response
+    - [x] LTI Spice simulación
+- [ ] Resultados 
+    - [ ] Comparación de resultados teórico-prácticos (transitorios): No
+    - [ ] Comparación de resultados teórico-prácticos (Bode): No
+- [x] Conclusiones
+    - [x] Individuales: Yepez: el diagrama es de Bode, no de Nyquist
+    - [x] Técnicas
+    - [x] Interesantes y reflexivas
+
+Repositorio:
+- [ ] Carpetas
+- [x] Código Scilab/Matlab
+- [ ] Código Spice
+- [x] Código de Latex
+- [ ] Reporte en PDF
+- [x] Entregado en tiempo
+
+Grade 84
